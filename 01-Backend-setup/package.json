@@ -1,0 +1,19 @@
+{
+  "name": "backend-setup",
+  "version": "1.0.0",
+  "description": "Setting up backend",
+  "license": "ISC",
+  "author": "luv",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -b && node dist/index.js"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0"
+  }
+}
