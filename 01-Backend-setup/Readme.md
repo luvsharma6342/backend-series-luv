@@ -5,8 +5,11 @@ A simple backend server built using Node.js, TypeScript, and Express.
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
+```bash
 git clone https://github.com/luvsharma6342/backend-series-luv.git
 cd backend-series-luv
+cd 01-Backend-setup
+```
 
 ### 2. Install Dependencies
 npm install
