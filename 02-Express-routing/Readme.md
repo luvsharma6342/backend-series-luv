@@ -12,10 +12,14 @@ cd 02-Express-routing
 ```
 
 ### 2. Install Dependencies
+``` bash
 npm install
+```
 
 ### 3. Run the Server
+``` bash
 npm run dev
+```
 
 ## 🛠 Tech Stack
 - Node.js
